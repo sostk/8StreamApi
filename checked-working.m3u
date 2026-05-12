@@ -1,6 +1,7 @@
 #EXTM3U
-#PLAYLIST:Checked by CODECS.COM M3U Checker
 
-#EXTINF:-1 group-title="Live TV",Test Stream
+#EXTINF:-1 tvg-name="Test Stream" group-title="Live TV",Test Stream
+#EXTVLCOPT:http-referrer=https://net52.cc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://tv.imgcdn.kim/newtv/hls/hs/:1271390168.m3u8
 
