@@ -1,0 +1,6 @@
+#EXTM3U
+#PLAYLIST:Checked by CODECS.COM M3U Checker
+
+#EXTINF:-1 group-title="Live TV",Test Stream
+https://tv.imgcdn.kim/newtv/hls/hs/:1271390168.m3u8
+
